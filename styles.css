@@ -1,0 +1,126 @@
+.container{
+    background-color: wheat;
+    height: 100vh;
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.box1{
+    background-color: white;
+    height:70vh;
+    width: 45vw;
+}
+.dis{
+
+    height: 10vh;
+    width:43vw;
+    margin-top: 10px;
+    margin-left: 12px;
+    border-left: 10px;
+    
+}
+.back{
+
+    margin-top: 10px;
+    cursor: pointer;
+    margin-right: 10px;
+
+}
+.first_row{
+    display: flex;
+    height: 15vh;
+    width:43vw ;
+    justify-content: center;
+    align-items: center;
+    margin-left: 12px;
+
+    
+}
+.second_row{
+    display: flex;
+    height: 15vh;
+    width:43vw ;
+    justify-content: center;
+    align-items: center;
+    margin-left: 12px;
+
+
+}
+.third_row{
+    display: flex;
+    height: 15vh;
+    width:43vw ;
+    justify-content: center;
+    align-items: center;
+    margin-left: 12px;
+    margin-top: -10px;
+
+}
+.fourth_row{
+    display: flex;
+    height: 15vh;
+    width:43vw ;
+    justify-content: center;
+    align-items: center;
+    margin-left: 12px;
+    margin-top: -10px;
+
+}
+.one,.two,.three{
+    margin-top: 20px;
+    padding: 10px 80px;
+    border-color:aliceblue;
+    border-radius: 5px;
+    border-style:ridge;
+    cursor: pointer;
+    font-size: 50px;
+
+
+}
+.four,.five,.six{
+    padding: 10px 80px;
+    border-color:aliceblue;
+    border-radius: 5px;
+    border-style:ridge;
+    cursor: pointer;
+    font-size: 50px;
+
+
+
+}
+.seven,.eight,.nine{
+    padding: 10px 80px;
+    border-color:aliceblue;
+    border-radius: 5px;
+    border-style:ridge;
+    cursor: pointer;
+    font-size: 50px;
+
+
+}
+.mul,.zero,.has{
+    padding: 10px 80px;
+    border-color:aliceblue;
+    border-radius: 5px;
+    border-style:ridge;
+    cursor: pointer;
+    font-size: 50px;
+
+
+} 
+.top{
+    display: flex;
+    width:44vw;
+    height: 10vh;
+    justify-self:center;
+    align-items:center;
+    font-size: 50px;
+    background-color: lightgray;
+    margin-top: 10px;
+    margin-left: 7px;
+}
+.number{
+    font-size: 900px;
+}
